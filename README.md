@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatimah Zaman
-Aspiring Data Analyst with a passion for transforming data into actionable insights. Skilled in Python, SQL, and data visualization tools like Tableau and Power BI* 🌍  I'm based in Hertfordhire* ✉️  You can contact me at [fzaman.analytics@gmail.com](mailto:fzaman.analytics@gmail.com)* 🧠  I'm learning Power BI & Python* 🤝  I'm open to collaborating on Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatimah Zaman.
+I'm an aspiring Data Analyst with a passion for transforming data into actionable insights. Skilled in Python, SQL, and data visualization tools like Tableau and Power BI* 🌍  I'm based in Hertfordhire* ✉️  You can contact me at [fzaman.analytics@gmail.com](mailto:fzaman.analytics@gmail.com)* 🧠  I'm learning Power BI & Python* 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
